@@ -50,7 +50,7 @@ To build a career at the intersection of Data Analytics, Technology, and Automat
 ## 📫 Connect With Me
 
 - **GitHub:** https://github.com/Teeman2525
-- **LinkedIn:** Add LinkedIn profile URL here
+- **LinkedIn:** https://www.linkedin.com/in/teeman2525
 
 *Always learning. Always building.*
 <!--
